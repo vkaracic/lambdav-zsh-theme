@@ -9,8 +9,8 @@ function git_prompt_info() {
   fi
 }
 
-PROMPT='λ %F{247}[%D{%I:%M:%S}%b]%f (%n%) %{$fg[green]%}%~ $(git_prompt_info)$(git_prompt_status)%{$reset_color%}
-> '
+PROMPT='%F{247}[%D{%H:%M:%S}%b]%f (%n%) %{$fg[green]%}%~ $(git_prompt_info)$(git_prompt_status)%{$reset_color%}
+λ > '
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[yellow]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "
