@@ -21,6 +21,7 @@ ZSH_THEME_GIT_PROMPT_BEHIND="%{$fg[red]%}↓%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_AHEAD="%{$fg[cyan]%}↑%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_ADDED="%{$fg[green]%}±%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_UNTRACKED="%{$fg[red]%}+%{$reset_color%}"
+ZSH_THEME_GIT_PROMPT_STASHED="%{$fg[cyan]%}↶%{$reset_color%}"
 
 ZSH_THEME_GIT_COMMITS_AHEAD_PREFIX="%{$fg[cyan]%}COMMITS_AHEAD_PREFIX%{$reset_color%}"
 ZSH_THEME_GIT_COMMITS_AHEAD_SUFFIX="%{$fg[cyan]%}COMMITS_AHEAD_SUFFIX%{$reset_color%}"
