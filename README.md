@@ -1,5 +1,5 @@
 # Lambda V ZSH teminal theme
-A combination of the Lambda and Fishy themes:
+
 ![screenshot](https://raw.githubusercontent.com/vkaracic/lambdav-zsh-theme/master/screenshot.png)
 
 ## Want to contribute?
